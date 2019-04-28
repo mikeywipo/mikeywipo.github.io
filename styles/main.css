@@ -20,3 +20,9 @@ ul {
     background-color: beige;
     margin: 0;
 }
+.text {
+    font-size: 1vw;
+}
+img {
+    border-radius: 5%;
+}
