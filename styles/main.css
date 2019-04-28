@@ -1,21 +1,22 @@
 body {
     background-color: blanchedalmond;
-    font-size: 20px;
     font-family: 'Lobster', cursive;
     color: brown;
+    text-align: center;
+    font-size: 5vw;
+}
+h1 {
+    margin: 0;
 }
 .row {
-    height: 10%;
     width: 100%;
-    display: flex;
+    font-size: 3vw;
 }
-.six-col {
-    width: 50%;
-    padding-left: 1rem;
-}
-.nav-links {
+.nav {
     display: inline;
-    margin: 1rem;
-    position: relative;
-    top: 1rem;
+    padding: 0vw 3vw 0vw 3vw;
+}
+ul {
+    background-color: beige;
+    margin: 0;
 }
