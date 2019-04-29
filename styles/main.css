@@ -1,9 +1,9 @@
 body {
     background-color: blanchedalmond;
-    font-family: 'Lobster', cursive;
     color: brown;
-    font-size: 2vw;
+    font-size: 1vw;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .row {
     width: 100%;
@@ -11,7 +11,8 @@ body {
 }
 .nav {
     display: inline;
-    padding: 0vw 1vw 0vw 1vw;
+    padding: 0vw 1vw 0vw 1vw;    
+    font-family: 'Lobster', cursive;
 }
 ul {
     background-color: beige;
