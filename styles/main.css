@@ -2,19 +2,16 @@ body {
     background-color: blanchedalmond;
     font-family: 'Lobster', cursive;
     color: brown;
+    font-size: 2vw;
     text-align: center;
-    font-size: 5vw;
-}
-h1 {
-    margin: 0;
 }
 .row {
     width: 100%;
-    font-size: 3vw;
+    font-size: 1vw;
 }
 .nav {
     display: inline;
-    padding: 0vw 3vw 0vw 3vw;
+    padding: 0vw 1vw 0vw 1vw;
 }
 ul {
     background-color: beige;
@@ -25,4 +22,5 @@ ul {
 }
 img {
     border-radius: 5%;
+    margin:1vw;
 }
