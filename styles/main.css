@@ -92,6 +92,7 @@
     width: 100%;
     position: relative;
     background-color: black;
+    overflow: auto;
 }
 .twoCol{
     width: 10%;
