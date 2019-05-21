@@ -45,7 +45,6 @@
     display: table;
     float: left;
     padding: 0px 20px;
-
 }
 .navigation a:last-child{
     padding-right: 0;
@@ -55,7 +54,7 @@
     vertical-align: middle;
     height: 100%;
     font-family: 'Montserrat', sans-serif;
-    font-size: 50px;
+    font-size: 23px;
 }
 
 .mainPicture{
@@ -101,7 +100,6 @@
     position: absolute;
     left: 320px;
     color: white;
-    bottom:11px;
 }
 .sideBar{
     font-family: 'Montserrat', sans-serif;
